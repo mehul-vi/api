@@ -1,0 +1,264 @@
+{
+    "deals": [
+        {
+            "id": "1",
+            "title": "Test Client 1",
+            "value": 5000,
+            "stage": "starts_conversation"
+        },
+        {
+            "id": "2",
+            "title": "Test Client 2",
+            "value": 3200,
+            "stage": "negotiation"
+        },
+        {
+            "id": "3",
+            "title": "Test Client 3",
+            "value": 6666,
+            "stage": "starts_conversation"
+        }
+    ],
+    "ibs": [
+        {
+            "id": "1",
+            "username": "test_user_01",
+            "email": "test01@example.com",
+            "firstName": "Test",
+            "lastName": "User 01",
+            "state": "Active"
+        },
+        {
+            "id": "2",
+            "username": "test_user_02",
+            "email": "test02@example.com",
+            "firstName": "Test",
+            "lastName": "User 02",
+            "state": "Inactive"
+        },
+        {
+            "id": "3",
+            "username": "test_user_03",
+            "email": "test03@example.com",
+            "firstName": "Test",
+            "lastName": "User 03",
+            "state": "Pending"
+        },
+        {
+            "id": "4",
+            "username": "test_user_04",
+            "email": "test04@example.com",
+            "firstName": "Test",
+            "lastName": "User 04",
+            "state": "Active"
+        },
+        {
+            "id": "5",
+            "username": "test_user_05",
+            "email": "test05@example.com",
+            "firstName": "Test",
+            "lastName": "User 05",
+            "state": "Inactive"
+        },
+        {
+            "id": "6",
+            "username": "test_user_06",
+            "email": "test06@example.com",
+            "firstName": "Test",
+            "lastName": "User 06",
+            "state": "Pending"
+        },
+        {
+            "id": "7",
+            "username": "test_user_07",
+            "email": "test07@example.com",
+            "firstName": "Aman",
+            "lastName": "Sharma",
+            "state": "Active"
+        },
+        {
+            "id": "8",
+            "username": "test_user_08",
+            "email": "test08@example.com",
+            "firstName": "Priya",
+            "lastName": "Verma",
+            "state": "Inactive"
+        },
+        {
+            "id": "9",
+            "username": "test_user_09",
+            "email": "test09@example.com",
+            "firstName": "Rahul",
+            "lastName": "Gupta",
+            "state": "Pending"
+        },
+        {
+            "id": "10",
+            "username": "test_user_10",
+            "email": "test10@example.com",
+            "firstName": "Neha",
+            "lastName": "Singh",
+            "state": "Active"
+        },
+        {
+            "id": "11",
+            "username": "test_user_11",
+            "email": "test11@example.com",
+            "firstName": "Rohan",
+            "lastName": "Patel",
+            "state": "Inactive"
+        },
+        {
+            "id": "12",
+            "username": "test_user_12",
+            "email": "test12@example.com",
+            "firstName": "Anjali",
+            "lastName": "Mishra",
+            "state": "Pending"
+        },
+        {
+            "id": "13",
+            "username": "test_user_13",
+            "email": "test13@example.com",
+            "firstName": "Vikram",
+            "lastName": "Yadav",
+            "state": "Active"
+        },
+        {
+            "id": "14",
+            "username": "test_user_14",
+            "email": "test14@example.com",
+            "firstName": "Pooja",
+            "lastName": "Jain",
+            "state": "Inactive"
+        },
+        {
+            "id": "15",
+            "username": "test_user_15",
+            "email": "test15@example.com",
+            "firstName": "Karan",
+            "lastName": "Mehta",
+            "state": "Pending"
+        },
+        {
+            "id": "16",
+            "username": "test_user_16",
+            "email": "test16@example.com",
+            "firstName": "Sneha",
+            "lastName": "Nair",
+            "state": "Active"
+        },
+        {
+            "id": "17",
+            "username": "test_user_17",
+            "email": "test17@example.com",
+            "firstName": "Arjun",
+            "lastName": "Rao",
+            "state": "Inactive"
+        },
+        {
+            "id": "18",
+            "username": "test_user_18",
+            "email": "test18@example.com",
+            "firstName": "Kavya",
+            "lastName": "Das",
+            "state": "Pending"
+        },
+        {
+            "id": "19",
+            "username": "test_user_19",
+            "email": "test19@example.com",
+            "firstName": "Sahil",
+            "lastName": "Khan",
+            "state": "Active"
+        },
+        {
+            "id": "20",
+            "username": "test_user_20",
+            "email": "test20@example.com",
+            "firstName": "Riya",
+            "lastName": "Joshi",
+            "state": "Inactive"
+        },
+        {
+            "id": "21",
+            "username": "test_user_21",
+            "email": "test21@example.com",
+            "firstName": "Aditya",
+            "lastName": "Tiwari",
+            "state": "Pending"
+        },
+        {
+            "id": "22",
+            "username": "test_user_22",
+            "email": "test22@example.com",
+            "firstName": "Simran",
+            "lastName": "Kaur",
+            "state": "Active"
+        },
+        {
+            "id": "23",
+            "username": "test_user_23",
+            "email": "test23@example.com",
+            "firstName": "Nikhil",
+            "lastName": "Chauhan",
+            "state": "Inactive"
+        },
+        {
+            "id": "24",
+            "username": "test_user_24",
+            "email": "test24@example.com",
+            "firstName": "Isha",
+            "lastName": "Roy",
+            "state": "Pending"
+        },
+        {
+            "id": "25",
+            "username": "test_user_25",
+            "email": "test25@example.com",
+            "firstName": "Deepak",
+            "lastName": "Soni",
+            "state": "Active"
+        },
+        {
+            "id": "26",
+            "username": "test_user_26",
+            "email": "test26@example.com",
+            "firstName": "Tanya",
+            "lastName": "Bose",
+            "state": "Inactive"
+        },
+        {
+            "id": "27",
+            "username": "test_user_27",
+            "email": "test27@example.com",
+            "firstName": "Manish",
+            "lastName": "Dubey",
+            "state": "Pending"
+        },
+        {
+            "id": "28",
+            "username": "test_user_28",
+            "email": "test28@example.com",
+            "firstName": "Aditi",
+            "lastName": "Saxena",
+            "state": "Active"
+        },
+        {
+            "id": "29",
+            "username": "test_user_29",
+            "email": "test29@example.com",
+            "firstName": "Harsh",
+            "lastName": "Kapoor",
+            "state": "Inactive"
+        },
+        {
+            "id": "30",
+            "username": "test_user_30",
+            "email": "test30@example.com",
+            "firstName": "Muskan",
+            "lastName": "Bhatia",
+            "state": "Pending"
+        }
+    ]
+}
